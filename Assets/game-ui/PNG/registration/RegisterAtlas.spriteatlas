@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RegisterAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 77e37b53d29caac448b89e0285b3910e, type: 3}
+    - {fileID: 2800000, guid: ff788edf796a4f64b8fb0c26c41a6ef4, type: 3}
+    - {fileID: 2800000, guid: 1f98b4d3fe87d734fb3592c765a5806c, type: 3}
+    - {fileID: 2800000, guid: a37e6c53c90f7c04db0b25cf5b87a9ea, type: 3}
+    - {fileID: 2800000, guid: 8da3096ed423a944c9e9f915f299a81c, type: 3}
+    - {fileID: 2800000, guid: 0f165715fefcf8e47887899453917031, type: 3}
+    - {fileID: 2800000, guid: bdcf82e8ed371f84b8db69e61bef91b2, type: 3}
+    - {fileID: 2800000, guid: 706f195412a5aa34cb535b10223d8c16, type: 3}
+    - {fileID: 2800000, guid: 2c04d64f28436104fa232e571a39f96e, type: 3}
+    - {fileID: 2800000, guid: 16ec62c6f44d7f844838babadcefd749, type: 3}
+    - {fileID: 2800000, guid: eee91f98a50df5d4792f86fb562e82d0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 77e37b53d29caac448b89e0285b3910e, type: 3}
+  - {fileID: 21300000, guid: a37e6c53c90f7c04db0b25cf5b87a9ea, type: 3}
+  - {fileID: 21300000, guid: 1f98b4d3fe87d734fb3592c765a5806c, type: 3}
+  - {fileID: 21300000, guid: 706f195412a5aa34cb535b10223d8c16, type: 3}
+  - {fileID: 21300000, guid: 0f165715fefcf8e47887899453917031, type: 3}
+  - {fileID: 21300000, guid: 16ec62c6f44d7f844838babadcefd749, type: 3}
+  - {fileID: 21300000, guid: eee91f98a50df5d4792f86fb562e82d0, type: 3}
+  - {fileID: 21300000, guid: bdcf82e8ed371f84b8db69e61bef91b2, type: 3}
+  - {fileID: 21300000, guid: 8da3096ed423a944c9e9f915f299a81c, type: 3}
+  - {fileID: 21300000, guid: 2c04d64f28436104fa232e571a39f96e, type: 3}
+  - {fileID: 21300000, guid: ff788edf796a4f64b8fb0c26c41a6ef4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - table
+  - header_registration
+  - table_2
+  - button_create
+  - button_twitter
+  - button__facebook
+  - bg
+  - button_google
+  - button_vk
+  - button_close
+  - table_1
+  m_RenderDataMap: {}
+  m_Tag: RegisterAtlas
+  m_IsVariant: 0
